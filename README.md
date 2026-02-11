@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm <prashanti avusula>
+# 👋 Hi there, I'm prashanti avusula
 
 🎓 BTech 3rd Year Student  
 🐍 Learning Python | Data Structures & Algorithms  
