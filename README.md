@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm prashanti avusula
 
-🎓 BTech 3rd Year Student  
+🎓 BTech 4rd Year Student  
 🐍 Learning Python | Data Structures & Algorithms  
 💻 Aspiring Software Engineer / Data Analyst  
 
